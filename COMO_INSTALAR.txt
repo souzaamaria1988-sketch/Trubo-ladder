@@ -1,0 +1,8 @@
+LADDER TURBO — INSTALAR PELO CELULAR
+1. Crie um repositorio em github.com (ex.: ladder-turbo).
+2. Envie o ladder-turbo-src.zip inteiro (upload files) e faça Commit.
+3. Add file > Create new file > nome: .github/workflows/build.yml
+   > cole o conteudo de build.yml > Commit.
+4. Aba Actions: aguarde o job ficar verde (~3 min).
+5. Releases > Ladder Turbo v1.0.0 > toque em ladder-turbo-1.0.0.jar.
+6. Instale o Fabric Loader no PC, ponha o .jar em .minecraft/mods e jogue.
